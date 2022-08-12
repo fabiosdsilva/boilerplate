@@ -18,7 +18,7 @@
     "@typescript-eslint/parser": "^5.19.0",
     "eslint-plugin-react": "^7.29.4",
     "lint-staged": "^12.3.7",
-    "next": "12.1.4",
+    "next": "12.2.5",
     "react": "18.0.0",
     "react-dom": "18.0.0"
   },
